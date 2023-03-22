@@ -1,4 +1,5 @@
 ### Hi there 👋
+As a back end web developer, I'm passionate about creating flawless code that leaves my clients completely satisfied. Learning and openly sharing my knowledge to others are two things that I am passionate about. Real-world issues are my favorite to resolve. I always approach my work strategically, with the aim in mind.
 
 <!--
 **MH-Bayzid/MH-Bayzid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
